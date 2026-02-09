@@ -1,6 +1,6 @@
 # AIG 230 – Lab 04  
 ## Word Embeddings: Learning Meaning from Context
-
+THIS IS MY SUBMISSION FOR ASSIGNMENT 4. BELOW IS COPIED TEXT FROM THE INTIAL ASSIGNMENT README FROM DAVJES15'S TEMPLATE FOR POSTERITY PURPOSES. (I WANT TO KNOW WHAT THIS LAB IS ABOUT WHEN I LOOK AT THIS REPO IN A YEAR)
 ### Overview
 
 This lab introduces **learned text representations**, commonly known as **word embeddings**.  
@@ -38,24 +38,6 @@ This lab directly builds on the lecture material for Week 4 and covers:
 - Conceptual comparison with GloVe  
 - Practical limitations and evaluation considerations  
 
----
-
-### Tools and Libraries
-
-You will work with:
-
-- **Gensim** for training Word2Vec and FastText models  
-- **scikit-learn** for dataset loading and dimensionality reduction  
-- **NLTK** for basic tokenization and preprocessing  
-- **matplotlib** for visualization  
-
----
-
-### Dataset
-
-The lab uses the **20 Newsgroups** dataset, a real-world text corpus containing posts from multiple topics such as technology, politics, science, and religion.
-
-This dataset is commonly used in NLP research and is representative of industry text sources such as forums, support tickets, and knowledge bases.
 
 ---
 
@@ -68,36 +50,3 @@ This dataset is commonly used in NLP research and is representative of industry 
   - Fully commented code
   - Visualization
   - Multiple checkpoints for reflection and understanding
-
----
-
-### Instructions
-
-1. Use this template repository.
-2. Create a repository named `aig230-lab04-yourname`.
-3. Complete the notebook:
-   - Run all code cells
-   - Answer **all checkpoint questions** in markdown cells
-4. Commit and push your completed notebook to your repository.
-5. Submit the repository link on Blackboard.
-
----
-
-### Expectations
-
-- Your notebook should run from top to bottom without errors.
-- Code should not be deleted or heavily rewritten unless instructed.
-- Written answers should be clear, concise, and in your own words.
-- Focus on **understanding and interpretation**, not just producing output.
-
----
-
-### Key Takeaway
-
-This lab marks a conceptual shift in the course:
-
-> We move from **counting words** to **learning meaning**.
-
-Word embeddings are a foundational idea that enables modern neural NLP models and prepares you for upcoming topics such as text classification, transfer learning, and contextual embeddings.
-
----
